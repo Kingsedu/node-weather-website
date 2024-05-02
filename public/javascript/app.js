@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', ()=>{
-    console.log('Client side javascript file is loaded');
 
     const formInput = document.querySelector('form #form-id');
     const submitButton = document.querySelector('button[type="submit"]');
